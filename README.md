@@ -11,8 +11,3 @@ A simple TicTacToe game implementation in Java.
 javac src/TicTacToe.java
 java -cp src TicTacToe
 
-## Colors
-- Red
--  Blue
-
-Updated from GitHub
