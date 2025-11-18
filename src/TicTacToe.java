@@ -5,3 +5,4 @@ System.out.println("Welcome to TicTacToe!");
 }
 }
 // TODO: Add colored output for X and O
+Colors include: Red or Blue
